@@ -8,12 +8,58 @@
 
 /* Begin PBXBuildFile section */
 		050CDE4590FD99C2A4A72B1B /* Pods_fireFighters.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1F3585516E32C310C2A58A0E /* Pods_fireFighters.framework */; };
+		5A46C6C1200AD1BD007D5257 /* DonationTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6C0200AD1BD007D5257 /* DonationTableViewCell.swift */; };
+		5A46C6C3200ADA31007D5257 /* DONATE.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6C2200ADA31007D5257 /* DONATE.png */; };
+		5A46C6C5200ADAEA007D5257 /* MainPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6C4200ADAEA007D5257 /* MainPageViewController.swift */; };
+		5A46C6C7200ADD8E007D5257 /* ImageTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6C6200ADD8E007D5257 /* ImageTableViewCell.swift */; };
+		5A46C6C9200AE0EA007D5257 /* MapTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6C8200AE0EA007D5257 /* MapTableViewCell.swift */; };
+		5A46C6CB200AE1F4007D5257 /* SideScrollTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6CA200AE1F4007D5257 /* SideScrollTableViewCell.swift */; };
+		5A46C6D2200AE72E007D5257 /* SwiftyCamViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6CC200AE72D007D5257 /* SwiftyCamViewControllerDelegate.swift */; };
+		5A46C6D3200AE72E007D5257 /* SwiftyCamButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6CD200AE72D007D5257 /* SwiftyCamButton.swift */; };
+		5A46C6D4200AE72E007D5257 /* PreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6CE200AE72E007D5257 /* PreviewView.swift */; };
+		5A46C6D5200AE72E007D5257 /* Orientation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6CF200AE72E007D5257 /* Orientation.swift */; };
+		5A46C6D6200AE72E007D5257 /* CamViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6D0200AE72E007D5257 /* CamViewController.swift */; };
+		5A46C6D7200AE72E007D5257 /* SwiftyCamViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6D1200AE72E007D5257 /* SwiftyCamViewController.swift */; };
+		5A46C6DB200AEB2A007D5257 /* donation icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6D8200AEB29007D5257 /* donation icon.png */; };
+		5A46C6DC200AEB2A007D5257 /* scan icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6D9200AEB29007D5257 /* scan icon.png */; };
+		5A46C6DD200AEB2A007D5257 /* manage icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6DA200AEB2A007D5257 /* manage icon.png */; };
+		5A46C6DF200AEF60007D5257 /* donation icon 25.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6DE200AEF60007D5257 /* donation icon 25.png */; };
+		5A46C6E1200AEF99007D5257 /* manage icon 25.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6E0200AEF99007D5257 /* manage icon 25.png */; };
+		5A46C6E3200AEFBD007D5257 /* scan icon 25.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6E2200AEFBD007D5257 /* scan icon 25.png */; };
+		5A46C6EF200AF3AF007D5257 /* WELCOME 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6EA200AF3AF007D5257 /* WELCOME 2.png */; };
+		5A46C6F1200AF3AF007D5257 /* NOTIFICATIONS 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6EC200AF3AF007D5257 /* NOTIFICATIONS 2.png */; };
+		5A46C6F5200AF4C6007D5257 /* PROPERTY 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6F2200AF4C5007D5257 /* PROPERTY 3.png */; };
+		5A46C6F6200AF4C6007D5257 /* Items 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6F3200AF4C6007D5257 /* Items 2.png */; };
+		5A46C6F7200AF4C6007D5257 /* INVENTORY 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6F4200AF4C6007D5257 /* INVENTORY 3.png */; };
+		5A46C6F9200AF7E4007D5257 /* ItemPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6F8200AF7E4007D5257 /* ItemPickerViewController.swift */; };
+		5A46C6FB200AFC87007D5257 /* ImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C6FA200AFC87007D5257 /* ImageCollectionViewCell.swift */; };
+		5A46C6FD200AFCDB007D5257 /* Places to donate.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C6FC200AFCDB007D5257 /* Places to donate.png */; };
+		5A46C705200B042A007D5257 /* JACKET from items .png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C704200B042A007D5257 /* JACKET from items .png */; };
+		5A46C707200B048B007D5257 /* Scan.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C706200B048B007D5257 /* Scan.png */; };
+		5A46C70C200B04A5007D5257 /* Rooms.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C708200B04A4007D5257 /* Rooms.png */; };
+		5A46C70D200B04A5007D5257 /* JACKET from items .png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C709200B04A4007D5257 /* JACKET from items .png */; };
+		5A46C70E200B04A5007D5257 /* JACKET from SLO.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C70A200B04A4007D5257 /* JACKET from SLO.png */; };
+		5A46C70F200B04A5007D5257 /* Items 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C70B200B04A5007D5257 /* Items 3.png */; };
+		5A46C711200B0571007D5257 /* Items 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C710200B0571007D5257 /* Items 3.png */; };
+		5A46C713200B08E4007D5257 /* JacketViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C712200B08E4007D5257 /* JacketViewController.swift */; };
+		5A46C715200B092E007D5257 /* ManageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A46C714200B092E007D5257 /* ManageViewController.swift */; };
+		5A46C718200B0C8C007D5257 /* JACKET from items - 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C716200B0C8C007D5257 /* JACKET from items - 7.png */; };
+		5A46C719200B0C8C007D5257 /* Items 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A46C717200B0C8C007D5257 /* Items 4.png */; };
 		5AACC2D42009CB1800107307 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AACC2D32009CB1800107307 /* AppDelegate.swift */; };
 		5AACC2D62009CB1800107307 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AACC2D52009CB1800107307 /* ViewController.swift */; };
 		5AACC2D92009CB1800107307 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AACC2D72009CB1800107307 /* Main.storyboard */; };
 		5AACC2DB2009CB1800107307 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AACC2DA2009CB1800107307 /* Assets.xcassets */; };
-		5AACC2DE2009CB1800107307 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AACC2DC2009CB1800107307 /* LaunchScreen.storyboard */; };
 		5AACC2E92009CB1800107307 /* fireFightersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AACC2E82009CB1800107307 /* fireFightersTests.swift */; };
+		5AB18F72200A98790043DFDE /* Unknown.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AB18F71200A98790043DFDE /* Unknown.png */; };
+		5AB18F74200AB1420043DFDE /* What does SLO need.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AB18F73200AB1420043DFDE /* What does SLO need.png */; };
+		5AB18F78200AB6A40043DFDE /* LandingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB18F77200AB6A40043DFDE /* LandingViewController.swift */; };
+		5AB18F82200ABA000043DFDE /* ItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB18F81200ABA000043DFDE /* ItemTableViewCell.swift */; };
+		5AB18F88200ABF3D0043DFDE /* Goodwill.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5AB18F87200ABF3C0043DFDE /* Goodwill.jpeg */; };
+		5AB18F8C200AC1480043DFDE /* Donate Nav Bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AB18F89200AC1470043DFDE /* Donate Nav Bar.png */; };
+		5AB18F8D200AC1480043DFDE /* Manage Nav Bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AB18F8A200AC1470043DFDE /* Manage Nav Bar.png */; };
+		5AB18F8E200AC1480043DFDE /* Nav Bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AB18F8B200AC1480043DFDE /* Nav Bar.png */; };
+		5AB18F90200AC7040043DFDE /* DonationTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB18F8F200AC7040043DFDE /* DonationTableViewController.swift */; };
+		5AB18F92200AC8470043DFDE /* DonationCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AB18F91200AC8470043DFDE /* DonationCollectionViewCell.swift */; };
 		C3455E73D5741FA84FF70256 /* Pods_fireFightersTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87C7259A58305EAA5D49E673 /* Pods_fireFightersTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -31,17 +77,63 @@
 		1ECC33B84DF9DB9EBE4E163E /* Pods-fireFighters.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fireFighters.release.xcconfig"; path = "Pods/Target Support Files/Pods-fireFighters/Pods-fireFighters.release.xcconfig"; sourceTree = "<group>"; };
 		1F3585516E32C310C2A58A0E /* Pods_fireFighters.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_fireFighters.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		59503F8BF3B0E257B9D89F3A /* Pods-fireFighters.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fireFighters.debug.xcconfig"; path = "Pods/Target Support Files/Pods-fireFighters/Pods-fireFighters.debug.xcconfig"; sourceTree = "<group>"; };
+		5A46C6C0200AD1BD007D5257 /* DonationTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DonationTableViewCell.swift; sourceTree = "<group>"; };
+		5A46C6C2200ADA31007D5257 /* DONATE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DONATE.png; sourceTree = "<group>"; };
+		5A46C6C4200ADAEA007D5257 /* MainPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageViewController.swift; sourceTree = "<group>"; };
+		5A46C6C6200ADD8E007D5257 /* ImageTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageTableViewCell.swift; sourceTree = "<group>"; };
+		5A46C6C8200AE0EA007D5257 /* MapTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapTableViewCell.swift; sourceTree = "<group>"; };
+		5A46C6CA200AE1F4007D5257 /* SideScrollTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideScrollTableViewCell.swift; sourceTree = "<group>"; };
+		5A46C6CC200AE72D007D5257 /* SwiftyCamViewControllerDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyCamViewControllerDelegate.swift; sourceTree = "<group>"; };
+		5A46C6CD200AE72D007D5257 /* SwiftyCamButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyCamButton.swift; sourceTree = "<group>"; };
+		5A46C6CE200AE72E007D5257 /* PreviewView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PreviewView.swift; sourceTree = "<group>"; };
+		5A46C6CF200AE72E007D5257 /* Orientation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Orientation.swift; sourceTree = "<group>"; };
+		5A46C6D0200AE72E007D5257 /* CamViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CamViewController.swift; sourceTree = "<group>"; };
+		5A46C6D1200AE72E007D5257 /* SwiftyCamViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyCamViewController.swift; sourceTree = "<group>"; };
+		5A46C6D8200AEB29007D5257 /* donation icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "donation icon.png"; sourceTree = "<group>"; };
+		5A46C6D9200AEB29007D5257 /* scan icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "scan icon.png"; sourceTree = "<group>"; };
+		5A46C6DA200AEB2A007D5257 /* manage icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "manage icon.png"; sourceTree = "<group>"; };
+		5A46C6DE200AEF60007D5257 /* donation icon 25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "donation icon 25.png"; path = "../../Camp_Polyhacks/donation icon 25.png"; sourceTree = "<group>"; };
+		5A46C6E0200AEF99007D5257 /* manage icon 25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "manage icon 25.png"; path = "../../Camp_Polyhacks/manage icon 25.png"; sourceTree = "<group>"; };
+		5A46C6E2200AEFBD007D5257 /* scan icon 25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "scan icon 25.png"; path = "../../Camp_Polyhacks/scan icon 25.png"; sourceTree = "<group>"; };
+		5A46C6EA200AF3AF007D5257 /* WELCOME 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WELCOME 2.png"; sourceTree = "<group>"; };
+		5A46C6EC200AF3AF007D5257 /* NOTIFICATIONS 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NOTIFICATIONS 2.png"; sourceTree = "<group>"; };
+		5A46C6F2200AF4C5007D5257 /* PROPERTY 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PROPERTY 3.png"; sourceTree = "<group>"; };
+		5A46C6F3200AF4C6007D5257 /* Items 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Items 2.png"; sourceTree = "<group>"; };
+		5A46C6F4200AF4C6007D5257 /* INVENTORY 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "INVENTORY 3.png"; sourceTree = "<group>"; };
+		5A46C6F8200AF7E4007D5257 /* ItemPickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemPickerViewController.swift; sourceTree = "<group>"; };
+		5A46C6FA200AFC87007D5257 /* ImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionViewCell.swift; sourceTree = "<group>"; };
+		5A46C6FC200AFCDB007D5257 /* Places to donate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Places to donate.png"; sourceTree = "<group>"; };
+		5A46C704200B042A007D5257 /* JACKET from items .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "JACKET from items .png"; sourceTree = "<group>"; };
+		5A46C706200B048B007D5257 /* Scan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Scan.png; sourceTree = "<group>"; };
+		5A46C708200B04A4007D5257 /* Rooms.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Rooms.png; sourceTree = "<group>"; };
+		5A46C709200B04A4007D5257 /* JACKET from items .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "JACKET from items .png"; path = "../../../Downloads/JACKET from items .png"; sourceTree = "<group>"; };
+		5A46C70A200B04A4007D5257 /* JACKET from SLO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "JACKET from SLO.png"; sourceTree = "<group>"; };
+		5A46C70B200B04A5007D5257 /* Items 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Items 3.png"; sourceTree = "<group>"; };
+		5A46C710200B0571007D5257 /* Items 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Items 3.png"; path = "../../../Downloads/Items 3.png"; sourceTree = "<group>"; };
+		5A46C712200B08E4007D5257 /* JacketViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JacketViewController.swift; sourceTree = "<group>"; };
+		5A46C714200B092E007D5257 /* ManageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManageViewController.swift; sourceTree = "<group>"; };
+		5A46C716200B0C8C007D5257 /* JACKET from items - 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "JACKET from items - 7.png"; sourceTree = "<group>"; };
+		5A46C717200B0C8C007D5257 /* Items 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Items 4.png"; sourceTree = "<group>"; };
 		5AA5150618006CE073A182F0 /* Pods-fireFightersTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fireFightersTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-fireFightersTests/Pods-fireFightersTests.release.xcconfig"; sourceTree = "<group>"; };
 		5AACC2D02009CB1800107307 /* fireFighters.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fireFighters.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AACC2D32009CB1800107307 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5AACC2D52009CB1800107307 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5AACC2D82009CB1800107307 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5AACC2DA2009CB1800107307 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5AACC2DD2009CB1800107307 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5AACC2DF2009CB1800107307 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5AACC2E42009CB1800107307 /* fireFightersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = fireFightersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AACC2E82009CB1800107307 /* fireFightersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fireFightersTests.swift; sourceTree = "<group>"; };
 		5AACC2EA2009CB1800107307 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5AB18F71200A98790043DFDE /* Unknown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Unknown.png; sourceTree = "<group>"; };
+		5AB18F73200AB1420043DFDE /* What does SLO need.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "What does SLO need.png"; sourceTree = "<group>"; };
+		5AB18F77200AB6A40043DFDE /* LandingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandingViewController.swift; sourceTree = "<group>"; };
+		5AB18F81200ABA000043DFDE /* ItemTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemTableViewCell.swift; sourceTree = "<group>"; };
+		5AB18F87200ABF3C0043DFDE /* Goodwill.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Goodwill.jpeg; sourceTree = "<group>"; };
+		5AB18F89200AC1470043DFDE /* Donate Nav Bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Donate Nav Bar.png"; sourceTree = "<group>"; };
+		5AB18F8A200AC1470043DFDE /* Manage Nav Bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Manage Nav Bar.png"; sourceTree = "<group>"; };
+		5AB18F8B200AC1480043DFDE /* Nav Bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Nav Bar.png"; sourceTree = "<group>"; };
+		5AB18F8F200AC7040043DFDE /* DonationTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DonationTableViewController.swift; sourceTree = "<group>"; };
+		5AB18F91200AC8470043DFDE /* DonationCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DonationCollectionViewCell.swift; sourceTree = "<group>"; };
 		87C7259A58305EAA5D49E673 /* Pods_fireFightersTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_fireFightersTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EF46D87DAC356CA2660CB2F /* Pods-fireFightersTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-fireFightersTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-fireFightersTests/Pods-fireFightersTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -100,12 +192,58 @@
 		5AACC2D22009CB1800107307 /* fireFighters */ = {
 			isa = PBXGroup;
 			children = (
+				5A46C717200B0C8C007D5257 /* Items 4.png */,
+				5A46C716200B0C8C007D5257 /* JACKET from items - 7.png */,
+				5A46C6F4200AF4C6007D5257 /* INVENTORY 3.png */,
+				5A46C6F3200AF4C6007D5257 /* Items 2.png */,
+				5A46C6F2200AF4C5007D5257 /* PROPERTY 3.png */,
+				5A46C6EC200AF3AF007D5257 /* NOTIFICATIONS 2.png */,
+				5A46C6EA200AF3AF007D5257 /* WELCOME 2.png */,
+				5A46C70B200B04A5007D5257 /* Items 3.png */,
+				5A46C710200B0571007D5257 /* Items 3.png */,
+				5A46C704200B042A007D5257 /* JACKET from items .png */,
 				5AACC2D32009CB1800107307 /* AppDelegate.swift */,
 				5AACC2D52009CB1800107307 /* ViewController.swift */,
 				5AACC2D72009CB1800107307 /* Main.storyboard */,
+				5A46C714200B092E007D5257 /* ManageViewController.swift */,
+				5A46C6FA200AFC87007D5257 /* ImageCollectionViewCell.swift */,
+				5A46C6F8200AF7E4007D5257 /* ItemPickerViewController.swift */,
+				5A46C6D0200AE72E007D5257 /* CamViewController.swift */,
+				5A46C6C8200AE0EA007D5257 /* MapTableViewCell.swift */,
+				5A46C6C6200ADD8E007D5257 /* ImageTableViewCell.swift */,
+				5AB18F91200AC8470043DFDE /* DonationCollectionViewCell.swift */,
+				5AB18F8F200AC7040043DFDE /* DonationTableViewController.swift */,
+				5AB18F81200ABA000043DFDE /* ItemTableViewCell.swift */,
+				5A46C6C0200AD1BD007D5257 /* DonationTableViewCell.swift */,
+				5AB18F77200AB6A40043DFDE /* LandingViewController.swift */,
+				5A46C6C4200ADAEA007D5257 /* MainPageViewController.swift */,
+				5A46C712200B08E4007D5257 /* JacketViewController.swift */,
+				5A46C6CA200AE1F4007D5257 /* SideScrollTableViewCell.swift */,
+				5A46C6CF200AE72E007D5257 /* Orientation.swift */,
+				5A46C6CE200AE72E007D5257 /* PreviewView.swift */,
+				5A46C6CD200AE72D007D5257 /* SwiftyCamButton.swift */,
+				5A46C6D1200AE72E007D5257 /* SwiftyCamViewController.swift */,
+				5A46C6CC200AE72D007D5257 /* SwiftyCamViewControllerDelegate.swift */,
+				5A46C709200B04A4007D5257 /* JACKET from items .png */,
+				5A46C70A200B04A4007D5257 /* JACKET from SLO.png */,
+				5A46C708200B04A4007D5257 /* Rooms.png */,
+				5A46C706200B048B007D5257 /* Scan.png */,
 				5AACC2DA2009CB1800107307 /* Assets.xcassets */,
-				5AACC2DC2009CB1800107307 /* LaunchScreen.storyboard */,
 				5AACC2DF2009CB1800107307 /* Info.plist */,
+				5A46C6FC200AFCDB007D5257 /* Places to donate.png */,
+				5A46C6D8200AEB29007D5257 /* donation icon.png */,
+				5A46C6DE200AEF60007D5257 /* donation icon 25.png */,
+				5A46C6E0200AEF99007D5257 /* manage icon 25.png */,
+				5A46C6D9200AEB29007D5257 /* scan icon.png */,
+				5A46C6E2200AEFBD007D5257 /* scan icon 25.png */,
+				5A46C6DA200AEB2A007D5257 /* manage icon.png */,
+				5AB18F73200AB1420043DFDE /* What does SLO need.png */,
+				5AB18F71200A98790043DFDE /* Unknown.png */,
+				5AB18F87200ABF3C0043DFDE /* Goodwill.jpeg */,
+				5AB18F89200AC1470043DFDE /* Donate Nav Bar.png */,
+				5AB18F8A200AC1470043DFDE /* Manage Nav Bar.png */,
+				5A46C6C2200ADA31007D5257 /* DONATE.png */,
+				5AB18F8B200AC1480043DFDE /* Nav Bar.png */,
 			);
 			path = fireFighters;
 			sourceTree = "<group>";
@@ -217,8 +355,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5AACC2DE2009CB1800107307 /* LaunchScreen.storyboard in Resources */,
+				5A46C6EF200AF3AF007D5257 /* WELCOME 2.png in Resources */,
+				5A46C718200B0C8C007D5257 /* JACKET from items - 7.png in Resources */,
+				5A46C6DF200AEF60007D5257 /* donation icon 25.png in Resources */,
+				5AB18F8D200AC1480043DFDE /* Manage Nav Bar.png in Resources */,
+				5A46C6E1200AEF99007D5257 /* manage icon 25.png in Resources */,
+				5A46C70F200B04A5007D5257 /* Items 3.png in Resources */,
+				5A46C70C200B04A5007D5257 /* Rooms.png in Resources */,
+				5A46C6DB200AEB2A007D5257 /* donation icon.png in Resources */,
+				5AB18F74200AB1420043DFDE /* What does SLO need.png in Resources */,
+				5A46C6C3200ADA31007D5257 /* DONATE.png in Resources */,
+				5A46C719200B0C8C007D5257 /* Items 4.png in Resources */,
+				5A46C70E200B04A5007D5257 /* JACKET from SLO.png in Resources */,
+				5A46C707200B048B007D5257 /* Scan.png in Resources */,
+				5A46C711200B0571007D5257 /* Items 3.png in Resources */,
+				5A46C6E3200AEFBD007D5257 /* scan icon 25.png in Resources */,
+				5AB18F8C200AC1480043DFDE /* Donate Nav Bar.png in Resources */,
+				5A46C6F5200AF4C6007D5257 /* PROPERTY 3.png in Resources */,
+				5AB18F8E200AC1480043DFDE /* Nav Bar.png in Resources */,
+				5A46C6F1200AF3AF007D5257 /* NOTIFICATIONS 2.png in Resources */,
+				5A46C6DC200AEB2A007D5257 /* scan icon.png in Resources */,
+				5AB18F88200ABF3D0043DFDE /* Goodwill.jpeg in Resources */,
+				5A46C6FD200AFCDB007D5257 /* Places to donate.png in Resources */,
+				5A46C6DD200AEB2A007D5257 /* manage icon.png in Resources */,
+				5A46C6F7200AF4C6007D5257 /* INVENTORY 3.png in Resources */,
+				5A46C705200B042A007D5257 /* JACKET from items .png in Resources */,
 				5AACC2DB2009CB1800107307 /* Assets.xcassets in Resources */,
+				5A46C70D200B04A5007D5257 /* JACKET from items .png in Resources */,
+				5AB18F72200A98790043DFDE /* Unknown.png in Resources */,
+				5A46C6F6200AF4C6007D5257 /* Items 2.png in Resources */,
 				5AACC2D92009CB1800107307 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,9 +437,12 @@
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-fireFighters/Pods-fireFighters-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -336,8 +504,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A46C6C5200ADAEA007D5257 /* MainPageViewController.swift in Sources */,
+				5A46C6D5200AE72E007D5257 /* Orientation.swift in Sources */,
+				5A46C6D6200AE72E007D5257 /* CamViewController.swift in Sources */,
+				5A46C6D2200AE72E007D5257 /* SwiftyCamViewControllerDelegate.swift in Sources */,
+				5AB18F92200AC8470043DFDE /* DonationCollectionViewCell.swift in Sources */,
+				5A46C715200B092E007D5257 /* ManageViewController.swift in Sources */,
+				5A46C6CB200AE1F4007D5257 /* SideScrollTableViewCell.swift in Sources */,
+				5AB18F90200AC7040043DFDE /* DonationTableViewController.swift in Sources */,
+				5A46C6C7200ADD8E007D5257 /* ImageTableViewCell.swift in Sources */,
+				5A46C6C1200AD1BD007D5257 /* DonationTableViewCell.swift in Sources */,
+				5A46C6F9200AF7E4007D5257 /* ItemPickerViewController.swift in Sources */,
+				5A46C6D3200AE72E007D5257 /* SwiftyCamButton.swift in Sources */,
 				5AACC2D62009CB1800107307 /* ViewController.swift in Sources */,
+				5A46C6D4200AE72E007D5257 /* PreviewView.swift in Sources */,
+				5A46C6C9200AE0EA007D5257 /* MapTableViewCell.swift in Sources */,
+				5AB18F82200ABA000043DFDE /* ItemTableViewCell.swift in Sources */,
+				5A46C6D7200AE72E007D5257 /* SwiftyCamViewController.swift in Sources */,
+				5AB18F78200AB6A40043DFDE /* LandingViewController.swift in Sources */,
 				5AACC2D42009CB1800107307 /* AppDelegate.swift in Sources */,
+				5A46C713200B08E4007D5257 /* JacketViewController.swift in Sources */,
+				5A46C6FB200AFC87007D5257 /* ImageCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -366,14 +553,6 @@
 				5AACC2D82009CB1800107307 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		5AACC2DC2009CB1800107307 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5AACC2DD2009CB1800107307 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -492,9 +671,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QEJYV56S3G;
 				INFOPLIST_FILE = fireFighters/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.fireFighters;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fireFighters;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -507,9 +687,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = QEJYV56S3G;
 				INFOPLIST_FILE = fireFighters/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.fireFighters;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fireFighters;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
